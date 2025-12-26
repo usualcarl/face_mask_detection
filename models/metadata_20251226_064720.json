@@ -1,0 +1,15 @@
+{
+  "timestamp": "20251226_064720",
+  "best_model_name": "LinearRegression",
+  "val_metrics": {
+    "RMSE": 5.448282848255122,
+    "MAE": 4.296022610015556,
+    "R2": 0.8807051564275526
+  },
+  "test_metrics": {
+    "RMSE": 5.267797565031991,
+    "MAE": 4.246017621283145,
+    "R2": 0.8836135025519042
+  },
+  "target": "math score"
+}
